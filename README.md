@@ -5,7 +5,7 @@
 `ìniciar repositório`
 * git init
 `carregar arquivos no stage`
-* git add -a
+* git add -A
 `comentar as modificações`
 * git commit -m ''
 `upload para repositório`
