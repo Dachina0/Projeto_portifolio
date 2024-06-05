@@ -16,6 +16,6 @@
 * git diff
 `alteração de arquivo já enviado`
 * git commit --amend
-`forçar envio de modificações`
-* git push --force
-* git push -f
+`forçar envio de modificações com modificações`
+* git push --force `forçar o envio das modificações`
+* git push -f `forma resumida de --force`
